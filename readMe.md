@@ -69,4 +69,8 @@
 - contenu
 - dateEnvoi
 - expediteurID (FK vers Utilisateur)
+
+
+
+
 ![Photo de Profil](/diagramme/doudou.drawio.png)
