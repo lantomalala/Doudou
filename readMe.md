@@ -73,4 +73,4 @@
 
 
 
-![Photo de Profil](/diagramme/doudou.drawio.png)
+![Photo de Profil](/diagramme/doudou.png)
