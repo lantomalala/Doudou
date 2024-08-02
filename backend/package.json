@@ -1,18 +1,22 @@
 {
-  "dependencies": {
-    "body-parser": "^1.20.2",
-    "express": "^4.19.2",
-    "gitignore": "^0.7.0",
-    "mongodb": "^6.8.0"
-  },
   "name": "backend",
   "version": "1.0.0",
   "description": "Creation Chat sur Mongo et express",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "devStart": "nodemon app.js"
   },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "gitignore": "^0.7.0",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.2"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
